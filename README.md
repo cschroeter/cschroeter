@@ -3,7 +3,7 @@
 Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you. An overview of all open positions can be found here https://logmein.wd5.myworkdayjobs.com/LogMeInCareer
 
 
-Interested? Send me a [mail](mailto:dev@cschroeter.net?subject=LogMeIn).
+Interested? Send me a [logmein@cschroeter.net](mailto:logmein@cschroeter.net?subject=LogMeIn).
 
 <!--
 **cschroeter/cschroeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
