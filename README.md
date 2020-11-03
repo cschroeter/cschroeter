@@ -1,6 +1,5 @@
 ![I like to build cool shit](https://www.haarstudio-honicker.de/wp-content/uploads/2013/11/we-want-you-stellenanzeige.jpg)
 Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you.
-
 An overview of all open positions can be found [here](https://logmein.wd5.myworkdayjobs.com/LogMeInCareers).
 
 <!--
