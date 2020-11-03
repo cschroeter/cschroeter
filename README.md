@@ -1,7 +1,7 @@
-### Hi there 👋
-
+![I like to build cool shit](https://www.haarstudio-honicker.de/wp-content/uploads/2013/11/we-want-you-stellenanzeige.jpg)
 Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you.
-We want you! See open positions here https://logmein.wd5.myworkdayjobs.com/LogMeInCareers
+
+An overview of all open positions can be found [here](https://logmein.wd5.myworkdayjobs.com/LogMeInCareers).
 
 <!--
 **cschroeter/cschroeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
