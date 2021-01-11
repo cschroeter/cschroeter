@@ -1,6 +1,6 @@
 ![I like to build cool shit](https://www.einsatzfoto.at/wp-content/uploads/2018/11/wewantyou-1021x543-Kopie.jpg)
 
-Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you. An overview of all open positions can be found here https://logmein.wd5.myworkdayjobs.com/LogMeInCareer
+Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you. An overview of all open positions can be found here https://logmein.wd5.myworkdayjobs.com/LogMeInCareers
 
 
 Interested? Send me a mail to [logmein@cschroeter.net](mailto:logmein@cschroeter.net?subject=LogMeIn).
